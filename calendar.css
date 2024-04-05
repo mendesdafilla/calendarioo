@@ -1,0 +1,44 @@
+
+body{
+    font-size: 40px;
+ 
+}  
+table, td, th{
+    border: solid 2px rgb(12, 7, 7);
+    border-collapse: collapse;
+}
+th{
+    background-color: rgb(38, 0, 253);
+    color: white;
+}
+.domingo{
+    background-color: rgb(76, 236, 175);
+    color: white;
+}
+.legenda2{
+    background-color: rgb(104, 245, 186);
+    font-size: 20px;
+    color:black;
+}
+.legenda1{
+    background-color:rgb(66, 204, 250);
+    font-size: 20px;
+    color: black;
+}
+.legenda3{
+    background-color:rgb(250, 18, 126);
+    font-size: 20px;
+    color: black;
+ 
+}
+.legenda4{
+    background-color: rgb(106, 84, 255);
+    font-size: 20px;
+    color: black;
+}
+h6{
+    text-align: left;
+}
+td{
+    text-align: center;
+}
